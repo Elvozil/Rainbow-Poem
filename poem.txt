@@ -9,7 +9,9 @@ red
 yellow
 unicorn
 indigo
+blue
 MyRecycle!
 These are the color of rainbow.
 and the unicorn
+
 star
